@@ -1,7 +1,5 @@
 
-解决冲突
 make a conflict by master
-make a test conflict by dev
 
 
 make by dev
